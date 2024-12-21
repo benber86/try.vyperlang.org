@@ -26,7 +26,7 @@ To run the project locally, you need to follow these steps:
    - ```
      GITHUB_CLIENT_ID=...
      GITHUB_CLIENT_SECRET=...`
-     GITHUB_CALLBACK_URL=http://localhost:8000/hub/oauth_callback
+     OAUTH_CALLBACK_URL=http://localhost:8000/hub/oauth_callback
      ```
 
 4. You can start the JupyterHub using Docker Compose.
